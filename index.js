@@ -56,20 +56,3 @@ const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
   console.log("Server ishga tushdi:", PORT);
 });
-✅ Shu kodni joylashtirsang, index.js tayyor bo‘ladi.
-
-Keyingi qadam: package.json yaratish va dependencies qo‘yish.
-
-Men buni ham o‘rnatish bo‘yicha aniq o‘zbekcha ko‘rsatib beraman.
-
-Shuni ayt:
-✅ index.js tayyor
-❌ hali yaratilmadi
-
-
-
- Upgrade your plan to keep getting better, faster answers.
-
-Try Plus free
-
-
